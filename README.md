@@ -9,4 +9,4 @@ Go to  security/App passwords
 <br><br>
 generate a new app password
 <br><br>
-Use this app password in yorr Node application</b>
+Use this app password in yor Node application</b>
